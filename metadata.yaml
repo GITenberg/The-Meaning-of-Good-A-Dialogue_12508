@@ -1,0 +1,28 @@
+_repo: The-Meaning-of-Good-A-Dialogue_12508
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dickinson, G. Lowes (Goldsworthy Lowes)
+    aliases:
+    - Dickinson, Goldsworthy Lowes
+    - Dickinson, Lowes
+    birthdate: 1862
+    deathdate: 1932
+    gutenberg_agent_id: '1984'
+    url: http://www.gutenberg.org/2009/agents/1984
+    wikipedia: http://en.wikipedia.org/wiki/Goldsworthy_Lowes_Dickinson
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12508'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Good and evil'
+- !lcc 'BJ'
+- GITenberg
+title: The Meaning of Good—A Dialogue
+url: http://www.gutenberg.org/ebooks/12508
